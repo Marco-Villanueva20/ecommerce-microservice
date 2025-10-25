@@ -258,7 +258,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 📞 Contacto
 
-Tu Nombre - tu.email@example.com
+Marco Villanueva - marco_villanueva_@hotmail.com
 
 Link del Proyecto: [https://github.com/Marco-Villanueva20/ecommerce-microservice.git](https://github.com/Marco-Villanueva20/ecommerce-microservice.git)
 
